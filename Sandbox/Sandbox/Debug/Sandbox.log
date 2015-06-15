@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Sandbox.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Select_Server.cpp
+c:\users\андрей\documents\visual studio 2015\projects\sandbox\sandbox\select_server.cpp(136): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Sandbox.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Sandbox\Debug\Sandbox_Server.exe
